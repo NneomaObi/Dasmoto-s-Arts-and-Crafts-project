@@ -1,0 +1,26 @@
+h1 {
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: Bold;
+    Color: Khaki;
+    text-align: center;
+    background-image: url(C:/Users/obide/Desktop/Resources/images/pattern1.jpeg);
+}
+.brushes {
+font-family: Helvetica;
+font-size: 32px;
+font-weight: Bold;
+color: White;
+background-color: mediumspringgreen
+}
+span {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
+.frames {
+    background-color: lightcoral;
+}
+.paint {
+    background-color: skyblue;
+}
